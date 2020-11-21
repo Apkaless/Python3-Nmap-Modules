@@ -6,7 +6,7 @@
 
 # Fix Error "module 'nmap' has no attribute 'PortScanner'"
 
-# Type This Command Lines:
+# Type This Commands Line:
 
 # pip uninstall nmap
 
@@ -19,4 +19,3 @@
 # /usr/local/lib/python3.8 And python3.9/dist-packages
 
 # And Enjoy ;)
-
