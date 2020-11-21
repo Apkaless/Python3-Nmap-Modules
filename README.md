@@ -14,7 +14,7 @@
 
 # pip3 install python-nmap
 
-# And Please Copy The Folders Inside Folder Python3Modules And Paste It To This Path:
+# And Please Copy The Folders Inside Folder Python3-Nmap-Modules And Paste It To This Path:
 
 # /usr/local/lib/python3.8 And python3.9/dist-packages
 
